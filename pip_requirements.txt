@@ -1,6 +1,6 @@
 Scrapy==0.16.3
 pyopenssl==17.5.0
-lxml==3.2.3
+lxml
 queuelib==1.0
 twisted==12.2.0
 w3lib==1.3
